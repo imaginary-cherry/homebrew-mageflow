@@ -6,5 +6,5 @@ cask "mage-voyance" do
   name "Mage Voyance"
   homepage "https://github.com/imaginary-cherry/mageflow"
 
-  app "Mage Voyance.app"
+  app "Mageflow Viewer.app"
 end
