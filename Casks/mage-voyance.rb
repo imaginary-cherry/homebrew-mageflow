@@ -1,6 +1,6 @@
 cask "mage-voyance" do
   version "0.1.0"
-  sha256 "e3ccc729e0e049d8feb3790b5351d3daaaabd26d5ef6b1c314fd1c7e54004fb4"
+  sha256 "98efad375c1641212ffb8102245aefcde06c301f5a662bc6436044ec90e5b021"
 
   url "https://github.com/imaginary-cherry/mageflow/releases/download/app/v#{version}/Mage.Voyance_#{version}_aarch64.dmg"
   name "Mage Voyance"
